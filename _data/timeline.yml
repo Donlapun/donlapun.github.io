@@ -1,27 +1,20 @@
-- title: AMAZING STUFF
-  from: 2019
+- title: STAT207 Course Assistant
+  from: August 2022
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I assist and monitor students during the 1 hour and 50 minutes lab discussion every week. Furthermore, I grade the weekly assignments and provide feedback to 90 students.
 
-- title: Student, Harvard CS
+- title:  IS+DS Student, University of Illinois at Urbana-Chamapign
   from: 2013
   to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I am a junior majoring in Information Sciences + Data Science with the interests in predictive moddeling. 
+                During the time In UIUC, I have done projects in Data Science and also participate in community organization 
+                such as Habitat For Humanity Student Chapter. 
+# - title: Software Engineer, Google, UK
+#   from: 2018
+#   to: present
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
