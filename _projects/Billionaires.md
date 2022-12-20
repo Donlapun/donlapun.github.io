@@ -51,8 +51,7 @@ World Population Review. GDP per Capita by Country 2022. https://worldpopulation
 ### Interactive Visualizations:
 Used code from class
 - [Week 9](https://starboard.gg/jnaiman/inClass_week09_online_fall2022-noY2U59)
-- [Week 10](// https://starboard.gg/jnaiman/inClass_week10_online_fall2022-nrSZM7g)
+- [Week 10](https://starboard.gg/jnaiman/inClass_week10_online_fall2022-nrSZM7g)
 ### Contextual Visualizations
 Histogram
-Made by the team using Python
-[Code](https://starboard.gg/rshah257/IS445-final-project-python-nxupkrI)
+Made by the team using [Python](https://starboard.gg/rshah257/IS445-final-project-python-nxupkrI)
