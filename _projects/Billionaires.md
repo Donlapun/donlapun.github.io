@@ -70,7 +70,7 @@ Histogram
 Made by the team using [Python](https://starboard.gg/rshah257/IS445-final-project-python-nxupkrI)
 
 
-
+```
 <div class="left">
 {% include elements/button.html link="https://think.cs.vt.edu/corgis/csv/billionaires/" text="Billionaire Data" %}
 </div>
@@ -86,4 +86,4 @@ Made by the team using [Python](https://starboard.gg/rshah257/IS445-final-projec
 <div class="left">
 {% include elements/button.html link="https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country" text="GDP Data" %}
 </div>
-
+```
