@@ -1,3 +1,16 @@
+---
+name: Billionaire Project
+tools: [Python, HTML, vega-lite, JavaScript]
+image: assets/pngs/cars.png
+description: What factors we shoudl thin kabout when it comes to Billionaires?
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
+---
+
+
 # Billionaire Status, Wealth Size, and Location from 1996-2014
 
 In this project we will explore the Billionaire Dataset to find the meaning insights such as the association of different factors that might influence the wealth worth of the billionaires and shows in the visualizations as the findings with the writeup. The information about the dataset can be founded here: https://think.cs.vt.edu/corgis/csv/billionaires/
