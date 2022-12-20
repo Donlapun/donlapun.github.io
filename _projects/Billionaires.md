@@ -71,9 +71,9 @@ Made by the team using [Python](https://starboard.gg/rshah257/IS445-final-projec
 
 
 {% include elements/button.html link="[https://think.cs.vt.edu/corgis/csv/billionaires/](https://think.cs.vt.edu/corgis/csv/billionaires/)
-<!-- ](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country)" text="Billionaire Data" %}
-{% include elements/button.html link="[https://github.com/vega/vega/blob/main/docs/data/cars.json](https://starboard.gg/fahdonlapun/final_project_3.1-n0vrN1h)" text="The Analysis" %}
+](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country)" text="Billionaire Data" %}
+<!-- {% include elements/button.html link="[https://github.com/vega/vega/blob/main/docs/data/cars.json](https://starboard.gg/fahdonlapun/final_project_3.1-n0vrN1h)" text="The Analysis" %}
 {% include elements/button.html link="[https://www.statista.com/statistics/299134/billionaires-breakdown-wealth/
 ](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country)" text="Billionaire BreakDown Data" %}
-{% include elements/button.html link="[https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country)" text="GDP Data" %}
- -->
+{% include elements/button.html link="[https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country)" text="GDP Data" %} -->
+
