@@ -74,16 +74,14 @@ Made by the team using [Python](https://starboard.gg/rshah257/IS445-final-projec
 <div class="left">
 {% include elements/button.html link="https://think.cs.vt.edu/corgis/csv/billionaires/" text="Billionaire Data" %}
 </div>
-
+<div class="right">
+{% include elements/button.html link="https://starboard.gg/fahdonlapun/final_project_3.1-n0vrN1h" text="The Analysis" %}
+</div>
 <div class="left">
 {% include elements/button.html link="https://www.statista.com/statistics/299134/billionaires-breakdown-wealth/" text="Billionaire BreakDown Data" %}
 </div>
 
 <div class="left">
 {% include elements/button.html link="https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country" text="GDP Data" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://starboard.gg/fahdonlapun/final_project_3.1-n0vrN1h" text="The Analysis" %}
 </div>
 ```
