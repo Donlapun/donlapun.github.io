@@ -68,7 +68,7 @@ Used code from class
 ### Contextual Visualizations
 Histogram
 Made by the team using [Python](https://starboard.gg/rshah257/IS445-final-project-python-nxupkrI)
-"
+
 {% include elements/button.html link="https://think.cs.vt.edu/corgis/csv/billionaires/" text="Billionaire Data" %}
 {% include elements/button.html link="https://starboard.gg/fahdonlapun/final_project_3.1-n0vrN1h" text="The Analysis" %}
 {% include elements/button.html link="https://www.statista.com/statistics/299134/billionaires-breakdown-wealth/" text="Billionaire BreakDown Data" %}
