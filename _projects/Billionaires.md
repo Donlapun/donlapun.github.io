@@ -37,7 +37,7 @@ This helps us understand that even though there is an association between the ye
 the number of new companies that founded in each year does not have influence on the wealth worth in billions.
 
 ## Interactive Visualization between the Scatter Plot between the Demographics Age and Wealth Worth in Billions of the Billionaires and Histogram of the Location Region of the Billionaire Company
-<vegachart schema-url="{{ site.baseurl }}/assets/json/wealth_worth_age.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/wealth_worh_age_location.json" style="width: 100%"></vegachart>
 
 This interactive visualization shows the relationship between a billionaire’s demographic age and wealth worth and the region they are from. The user can select an age on the demographics age chart and the region bar graph will update accordingly, showing the number of billionaires at that age for each region. From this visualization, we can interpret that most billionaires are 50 years old or above. We can also interpret that as the age increases, a lot of billionaires are from North America, but there are also a good number of billionaires from Europe and South Asia. There is not a clear association between a billionaire’s age, wealth worth, and the region they are from, but it helps in providing context about the overall age of billionaires in different regions.
 
