@@ -44,16 +44,21 @@ This interactive visualization shows the relationship between a billionaire’s 
 # Contextual Visualization
 
 ## Histogram of Billionaire by Gender
+![Billionaires by Gender](https://raw.githubusercontent.com/Freedom360/Freedom360.github.io/master/assets/pngs/gender_chart.png)
 
-![]()
+This contextual visualization shows the distribution of the billionaire gender in the dataset. We can see that the majority of the billionaires are male which is around more than 4 times of the number of female billionaires. The number of the married couple as billionaires is very small. Therefore, the gender of the billionaires might actually influence the wealth worth of the billionaires.
+
+## Bar Chart of Billionaire’s Wealth Around the World in 2021, by Asset Allocation
+ ![Billionaire Wealth by Asset](https://user-images.githubusercontent.com/73120382/205422632-bf097b81-144a-4da4-b5e2-c8986e730676.png)
  
 This image shows a breakdown of Billionaires’ wealth from across the world by the type of wealth they have. In this, we see that with technology billionaires, by far the largest amount of their assets is in public holdings, compared to real estate billionaires who’s largest asset type is actually private holdings. Interestingly, fully half of the share of wealth within industrial conglomerate billionaires are formed by public holdings. What this could suggest is that technology industry billionaires main source of wealth comes from their stock allocation, such as their salaries being paid for in shares of the public company they control. This makes sense as many tech CEO’s such as Elon Musk are often paid a base salary, with stock options used as incentives. This would result in CEO’s with high performing companies being compensated with valuable stock options.
 
-### Histogram Citation:
+### Bar Chart Citation:
 Published by Statista Research Department, & 22, S. (2022, September 22). Billionaires: Breakdown of wealth by asset 2021. Statista. Retrieved December 2, 2022, from https://www.statista.com/statistics/299134/billionaires-breakdown-wealth/
 
 ## Scatter Plot of GDP per Capita by Country in 2022
-![]()
+
+![GDP per Capita by Country 2022](https://github.com/Freedom360/Freedom360.github.io/blob/master/assets/pngs/gdpGraph.png?raw=true)
 
 This visualization provides further context to the billionaires dataset. From this chart we can see the total GDP per capita for each country during 2022. This can be used to compare the 2016 GDP in the dataset and further understand the relationship between a billionaire’s country and the GDP. It can help determine if a billionaire’s country of origin and GDP plays a factor in their status or net worth. An interesting point about this visualization is that the top three countries with the highest GDP are Singapore, Luxembourg, and Ireland instead of United States, considering a lot of billionaires are from the United States. This suggests that a country’s GDP might not be a factor in achieving billionaire status and provides a new perspective when conducting analysis.
 
