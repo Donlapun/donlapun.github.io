@@ -1,0 +1,45 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/Donlapun/Donlapun.github.io/main/assets/billionaires.csv"
+  },
+  "hconcat": [
+    {
+      "title": "Scatter Plot between the Demographics Age and Wealth Worth in Billions",
+      "params": [{"name": "brush", "select": "interval"}],
+      "mark": {"type": "point", "color": "black"},
+      "height": 300,
+      "width": 600,
+      "encoding": {
+        "x": {
+          "field": "demographics_age",
+          "type": "quantitative",
+          "title": "Demographics Age"
+        },
+        "y": {
+          "field": "wealth_worth in billions",
+          "type": "quantitative",
+          "title": "Wealth Worth in Billions"
+        }
+      }
+    },
+    {
+      "title": "Histogram of the Location Region of the Billionaire Company",
+      "transform": [{"filter": {"param": "brush"}}],
+      "mark": {"type": "bar", "color": "green"},
+      "encoding": {
+        "x": {
+          "field": "location_region",
+          "type": "nominal",
+          "title": "Location Region"
+        },
+        "y": {
+          "aggregate": "count",
+          "type": "quantitative",
+          "axis": {"title": "Frequency"}
+        },
+        "color": {"condition": {"selection": "brush"}, "value": "red"}
+      }
+    }
+  ],
+  "config": {}
+}
