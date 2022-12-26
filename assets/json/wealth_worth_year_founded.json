@@ -1,0 +1,41 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/Donlapun/Donlapun.github.io/main/billionaires.csv"
+  },
+  "hconcat": [
+    {
+      "title": "Line Graph of the Wealth Worth by Year",
+      "params": [{"name": "brush", "select": "interval"}],
+      "mark": {"type": "line", "color": "black"},
+      "width": 700,
+      "encoding": {
+        "x": {
+          "field": "company_founded",
+          "type": "quantitative",
+          "title": "Year Company Founded"
+        },
+        "y": {"field": "wealth_worth in billions", "type": "quantitative"},
+        "color": {"condition": {"selection": "brush"}, "value": "red"}
+      }
+    },
+    {
+      "title": "Histogram of Year Company Founded",
+      "transform": [{"filter": {"param": "brush"}}],
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "bin": {"maxbins": 15},
+          "field": "company_founded",
+          "type": "quantitative",
+          "title": "Year Company Founded"
+        },
+        "y": {
+          "aggregate": "count",
+          "type": "quantitative",
+          "axis": {"title": "Frequency"}
+        }
+      }
+    }
+  ],
+  "config": {}
+}
