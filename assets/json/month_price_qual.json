@@ -3,7 +3,7 @@
     {"continuousWidth": 400, "continuousHeight": 300}}, 
  "data": {"url": "https://raw.githubusercontent.com/Donlapun/donlapun.github.io/main/assets/ames.csv"}, 
  "mark": "boxplot", 
- "encoding":
+ "encoding": {
               "x": {"field": "Mo_Sold", "type": "nominal"}, 
               "y": {"field": "price", "scale": {"type": "log"}, 
                     "type": "quantitative"}}, "width": "container", 
