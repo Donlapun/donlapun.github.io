@@ -1,8 +1,8 @@
 ---
 name: Billionaire Project
-tools: [Python, HTML, vega-lite, JavaScript]
+tools: [Python, HTML, vega-lite]
 image: assets/pngs/scatter_billionaire.png
-description: What factors we shoudl thin kabout when it comes to Billionaires?
+description: What factors we should think about when it comes to Billionaires?
 custom_js:
   - vega.min
   - vega-lite.min
