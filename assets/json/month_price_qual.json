@@ -1,12 +1,9 @@
 {"config": 
   {"view": 
     {"continuousWidth": 400, "continuousHeight": 300}}, 
- "data": {"url": "https://raw.githubusercontent.com/Donlapun/donlapun.github.io/main/assets/billionaires.csv"}, 
+ "data": {"url": "https://raw.githubusercontent.com/Donlapun/donlapun.github.io/main/assets/ames.csv"}, 
  "mark": "boxplot", 
- "encoding": {"color": {"bin": {"maxbins": 5}, 
-                        "field": "Income", 
-                        "scale": {"scheme": "sinebow"}, 
-                        "type": "quantitative"}, 
+ "encoding":
               "x": {"field": "Mo_Sold", "type": "nominal"}, 
               "y": {"field": "price", "scale": {"type": "log"}, 
                     "type": "quantitative"}}, "width": "container", 
