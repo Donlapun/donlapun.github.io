@@ -6,5 +6,5 @@
  "encoding": {
               "x": {"field": "Mo_Sold", "type": "nominal"}, 
               "y": {"field": "price", "type": "quantitative"}, 
-              "width": "container", 
- "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"}
+              "width": "container" } 
+}
