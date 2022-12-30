@@ -6,5 +6,10 @@
  "encoding": {"x": {"field": "Mo_Sold", "type": "quantitative", "sort": "ascending"}, 
               "y": {"field": "price", "type": "quantitative", "scale": {"zero": false}},
               "color": {"field": "Overall_Qual", "type": "quantitative"}}, 
- 
+ "transform": [
+        {
+          "regression": "price",
+          "on": "Mo_Sold"
+        }
+      ],
  "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"}
