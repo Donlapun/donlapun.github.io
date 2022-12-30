@@ -1,7 +1,7 @@
 
 {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, 
  "data": {"url": "https://raw.githubusercontent.com/Donlapun/donlapun.github.io/main/assets/ames.csv"}, 
- "title": "Relationship between the overall quality and price",
+ "title": "Relationship between pric, month sold, and its overall quality",
  "mark": "boxplot", 
  "encoding": {"x": {"field": "Mo_Sold", "type": "quantitative", "sort": "ascending"}, 
               "y": {"field": "price", "type": "quantitative", "scale": {"zero": false}}}, 
