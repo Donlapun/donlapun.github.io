@@ -1,5 +1,6 @@
 {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, 
  "data": {"url": "https://raw.githubusercontent.com/Donlapun/donlapun.github.io/main/assets/ames.csv"}, 
+ "title": "Relationship between month sold and price",
  "mark": "boxplot", 
  "encoding": {"x": {"field": "Mo_Sold", "type": "nominal"}, 
               "y": {"field": "price", "type": "quantitative"}}, 
