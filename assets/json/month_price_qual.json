@@ -3,7 +3,7 @@
  "title": "Relationship between month sold and price",
  "mark": "boxplot", 
  "encoding": {"x": {"field": "Mo_Sold", "type": "quantitative", "sort": "descending"}, 
-              "y": {"field": "price", "type": "quantitative"}}, 
+              "y": {"field": "price", "type": "quantitative", "scale": {"zero": false}}}, 
  "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"}
 
  
