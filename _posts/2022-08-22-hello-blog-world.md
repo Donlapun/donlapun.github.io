@@ -6,7 +6,7 @@ color: secondary
 description: This is a blog post to get you started.
 --- -->
 
-Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
+<!-- Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
 
 This is me writing an intro to this blog post.  So introlicioius.
 
@@ -34,4 +34,4 @@ This is my final thing, probably would be great if this was a TL;DR or summary. 
 
 Besides, all anybody wants is the DERP:
 
-![MAXIMUM DERP](http://3.bp.blogspot.com/-AXnXOPZgqMk/Un-xCBAa4gI/AAAAAAAAsWA/z_lZsvDoCRk/s1600/derpstages.jpg)
+![MAXIMUM DERP](http://3.bp.blogspot.com/-AXnXOPZgqMk/Un-xCBAa4gI/AAAAAAAAsWA/z_lZsvDoCRk/s1600/derpstages.jpg) -->
