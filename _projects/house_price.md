@@ -99,4 +99,7 @@ Logistic regression analysis helps us find the parsimonious model which determin
 For future work based on these analyses, the research questions could included more explanatory variables that might influence the interested responsive variables. Furthermore, these analyses mainly focus on the sale price and the central air conditioning which tries to satisfy the request from customers. The further work could also focus on other variables such as the Overall Quality which usually be a potential criteria of customer's preferences. Thse analyses could also extends to the building construction field where the architectures and the real estate come together to determine which explanatory variables could the a potential consideration when they are planning to build residential homes in Ames, Iowa.
 
 {% include elements/button.html link="https://www.openintro.org/book/statdata/?data=ames" text="Ames Data" %}
+
+<div class="right">
 {% include elements/button.html link="assets/project_report_Wongkarnta_Hu.ipynb" text="The Analysis" %}
+</div>
