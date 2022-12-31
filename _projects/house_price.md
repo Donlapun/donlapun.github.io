@@ -84,5 +84,16 @@ We create the logistic regression to help answer thisquestion and use backward e
 The model without Year Sold has the lowest AIC score
 
 ![Logistic_Model](/assets/pngs/logistic_regression_ames.png)
-$\hat{numer\_air}$ = -71.3706 + 0.0356Year_Built + 0.0018Garage_Area + $3.051 * 10 ^ {- 5}$price
+**Logistic Regression Equation:** $\hat{numer\_air}$ = -71.3706 + 0.0356Year_Built + 0.0018Garage_Area + $3.051 * 10 ^ {- 5}$price
 
+#### ROC and AUC of the model
+
+![ROC & AUC](/assets/pngs/roc_auc_ames.png)
+
+From the ROC curve, the good predictive probability threshold is the one that is close to the ideal predictive probability threshold(FPR = 0, TPR = 1). Therefore, We will choose predictive probability threshold correpsonds to the TPR = 0.83 and FPR = 0.04 because we want the classify many residential homes that have central air conditioning as possible(high tpr) and avoid giving wrong suggestions about central air conditioning to customers(low fpr). Furthermore, there would be less penalty for giving wrong suggestions because when people are looking for homes, they would look at many different places which the provider can give them more options.
+
+Logistic regression analysis helps us find the parsimonious model which determine which explanatory variables should be included in the model in order to predict the log-odds of the success level of the Central Air Conditioning(Central_Air) based on the interested variables we have which are the Year Built(Year_Built), the Size of Garage(Garage_Area), the Year Sold(Yr_Sold), and the Sale Price(price). From the analysis, we found that the final parsimonious model does not include the Year Sold(Yr_Sold) variable. Furthermore, the final model would be able to make a better prediction for new datasets.
+
+# Future Work
+
+For future work based on these analyses, the research questions could included more explanatory variables that might influence the interested responsive variables. Furthermore, these analyses mainly focus on the sale price and the central air conditioning which tries to satisfy the request from customers. The further work could also focus on other variables such as the Overall Quality which usually be a potential criteria of customer's preferences. Thse analyses could also extends to the building construction field where the architectures and the real estate come together to determine which explanatory variables could the a potential consideration when they are planning to build residential homes in Ames, Iowa.
