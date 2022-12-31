@@ -18,6 +18,6 @@ In FALL 2022, we had a total of 5 concessions which makes more than $6,000. As t
 There are other events that people can participate in H4H as well. This includes build the house for the family, promote h4H events, and signature events for fundraising!
 ![concession](/assets/pngs/concession_22.JPG)
 
-![broomball](/assets/pngs/bromball_22.JPG)
+![broomball](/assets/pngs/broomball_22.JPG)
 
 ![build](/assets/pngs/build_h4h_22.JPG)
