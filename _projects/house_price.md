@@ -101,5 +101,5 @@ For future work based on these analyses, the research questions could included m
 {% include elements/button.html link="https://www.openintro.org/book/statdata/?data=ames" text="Ames Data" %}
 
 <div class="right">
-{% include elements/button.html link="assets/project_report_Wongkarnta_Hu.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/Donlapun/donlapun.github.io/blob/main/assets/project_report_Wongkarnta_Hu.ipynb" text="The Analysis" %}
 </div>
