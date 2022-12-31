@@ -80,4 +80,9 @@ This linear regression analysis helps us determine whether te Overall Quality(Ov
 
 ## Q4: Is there a linear relationship between the log-odds of the success level of the Central air condition(Central_Air) and the Year Built(Year_Built), the Size of Garage(Garage_Area), the Year Sold(Yr_Sold), and the Sale Price(price) in the sample? What about the all residential homes in Ames, Iwoa? What explanatory variables should we include in the model to build a parsimonious model?
 
+We create the logistic regression to help answer thisquestion and use backward elimination to find the model with the lowest AIC score.
+The model without Year Sold has the lowest AIC score
+
+![Logistic_Model](/assets/pngs/logistic_regression_ames.png)
+$\hat{numer\_air}$ = -71.3706 + 0.0356Year_Built + 0.0018Garage_Area + $3.051 * 10 ^ {- 5}$price
 
