@@ -24,4 +24,4 @@ custom_js:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/qual_price.json" style="width: 100%"></vegachart>
 
-![Month_price_Quality Plot](mon_price_qual_plot.png)
+![Month_price_Quality Plot](assets/pngs/mon_price_qual_plot.png)
