@@ -1,22 +1,22 @@
-<!-- ---
-title: The Hello World of Blogs
-tags: [Technology, Blogging]
+---
+title: Psi Eta Mu Illinois 2022
+tags: [Connection, PHM, social life, Organization, Fraternity]
 style: fill
 color: secondary
-description: This is a blog post to get you started.
---- -->
+description: Netwoking and socializing with people who are interested in Information Sciences.
+---
 
-<!-- Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
+-- Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
 
-This is me writing an intro to this blog post.  So introlicioius.
+# Psi Eta Mu Illinois 
+Psi Eta Mu is the professional fraternities that thrives to foster the idea of networking people who are interested in Information Sciences. 
+Click social media options to learn more
+![Instagram](https://www.instagram.com/phmillinois/?hl=en)
+![Linktree](https://linktr.ee/phmillinois)
+![LinkedIn](https://www.linkedin.com/company/psi-eta-mu?trk=public_profile_topcard-current-company)
 
-## 1. Here is one thing I want to say
+## My Role in PHM
 
-This is maybe an important thing, and, at the very least it is first.
-
-## 2. Another thing
-
-I am now talking about a second thing, probably also good.
 
 ## 3. A third thing
 
@@ -34,4 +34,4 @@ This is my final thing, probably would be great if this was a TL;DR or summary. 
 
 Besides, all anybody wants is the DERP:
 
-![MAXIMUM DERP](http://3.bp.blogspot.com/-AXnXOPZgqMk/Un-xCBAa4gI/AAAAAAAAsWA/z_lZsvDoCRk/s1600/derpstages.jpg) -->
+![MAXIMUM DERP](http://3.bp.blogspot.com/-AXnXOPZgqMk/Un-xCBAa4gI/AAAAAAAAsWA/z_lZsvDoCRk/s1600/derpstages.jpg) 
