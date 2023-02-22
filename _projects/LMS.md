@@ -1,6 +1,6 @@
 ---
 name: Learning Management System and Student Privacy Research
-tools: [Python, HTML, vega-lite]
+tools: [Researcg, mix methods, privacy, lms, student data, policy]
 image: assets/pngs/scatter_billionaire.png
 description: What do we know about the learning management system user data collection?
 custom_js:
