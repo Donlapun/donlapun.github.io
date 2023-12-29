@@ -28,7 +28,7 @@ custom_js:
 	Based on the final results, we learned that the majority of the respondents do not concern or take an interest in privacy even though they are a part of data collection. Despite the outcomes, new information is learned by the participants which indicates the lack of transparency or informed consent to the users, in this case university students. Therefore, the current policy approach might be as effective in transparency. One alternative approach that could be used to improve the transparency of the learning management system is by providing the privacy label that looks like a pop-up that contains the concise summary of the information being collected and how it could be shared to the third party vendors. Doing so will reduce the responsibilities from users perspective to read the whole documents of the learning management system privacy policy. The user can have a glimpse of what is being collected by understanding the privacy label that could take at most a minute of reading.
 
 
-REFERENCES
+### References
 
 Apps Run The World, & Statista. (December 22, 2021). Size of the education software/application market worldwide from 2019 to 2025 (in million U.S. dollars) [Graph]. In Statista. Retrieved February 22, 2023, from https://www-statista-com.proxy2.library.illinois.edu/statistics/643909/worldwide-education-software-market-size/?locale=en
 
