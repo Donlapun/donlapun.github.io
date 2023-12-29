@@ -17,5 +17,8 @@ I trained post-correction model to correct the images from OCR output. Additiona
 
 Below is the example of the output of after passed to different post-correction models.
 
+![OCR Output](/assets/pngs/sentence10_output.png)
+
+
 
 
