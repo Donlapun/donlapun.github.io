@@ -2,7 +2,7 @@
 name: Enhancing Optical Character Recognition (OCR) Capabilities for Historical Documents
 
 tools: [Python, OCR, numpy, transformers, pandas, torch, Post-correction]
-image: assets/pngs/mon_price_qual_plot.png
+image: assets/pngs/sentence10_output.png
 description: Digitize all the NASA Astrophysics Data System (ADS) historical text by using Optical Character Recognition (OCR) s
 custom_js:
   - vega.min
