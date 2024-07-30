@@ -19,7 +19,7 @@ Below is the example of the output of after passed to different post-correction 
 
 ![OCR Output](/assets/pngs/sentence10_output.png)
 
-Additionally, we investigated different methods to track **hallucinations** with several metrics such as Character Error Rate (CER) and Word Error Rate (CER), Jaccard Similarity, and COsine Similarity.
+Additionally, we investigated different methods to track **hallucinations** with several metrics such as Character Error Rate (CER) and Word Error Rate (CER), Jaccard Similarity, and Cosine Similarity.
 
 The **future work** of this research will be focusing training the current model with new dataset and continue to explore other metrics to track hallucinations as well as training the model using Large Language Models (LLMs) for finding models that demonstrates optimal performance such as Astrollama, llama2, Gemini to improve the errors
 
