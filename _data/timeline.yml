@@ -1,18 +1,28 @@
-- title: SPIN Intern 
-  from: June 2023
+
+- title:  MSCAPP Student, University of Chicago
+  from: 2024
   to: present
-  description: Working as the SPIN intern at National Center for Supercomputing Applications (NCSA) under the supervision of Professor Jill Naiman. 
-- title: STAT207 Course Assistant
-  from: August 2022
-  to: present
-  description: I assist and monitor students during the 1 hour and 50 minutes lab discussion every week. Furthermore, I grade the weekly assignments and provide feedback to 90 students.
+  description: I am an upcoming master student in Master of Science in Computational Analysis in Public Policy 
+                at Harris School of Public Policy, University of Chicago.
 
 - title:  IS+DS Student, University of Illinois at Urbana-Chamapign
   from: 2020
+  to: 2024
+  description: I was a undergraduat student in Information Sciences + Data Science with the interests in predictive moddeling. 
+                During the time In UIUC, I did projects in Data Science and also participated in community organizations 
+                such as Habitat For Humanity Student Chapter and Psi Eta Mu. 
+- title: SPIN Intern 
+  from: June 2023
   to: present
-  description: I am a junior majoring in Information Sciences + Data Science with the interests in predictive moddeling. 
-                During the time In UIUC, I have done projects in Data Science and also participate in community organization 
-                such as Habitat For Humanity Student Chapter. 
+  description: Working as the SPIN intern at National Center for Supercomputing Applications (NCSA) under 
+              the supervision of Professor Jill Naiman. 
+- title: STAT207 Course Assistant
+  from: August 2022
+  to: present
+  description: I assist and monitor students during the 1.3 hours lab discussion every week. 
+                  Furthermore, I grade the weekly assignments and provide feedback to 120 students.
+
+              
 # - title: Software Engineer, Google, UK
 #   from: 2018
 #   to: present
