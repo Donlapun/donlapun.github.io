@@ -24,5 +24,8 @@ Additionally, we investigated different methods to track **hallucinations** with
 The **future work** of this research will be focusing training the current model with new dataset and continue to explore other metrics to track hallucinations as well as training the model using Large Language Models (LLMs) for finding models that demonstrates optimal performance such as Astrollama, llama2, Gemini to improve the errors
 
 
+{% include elements/button.html link="https://github.com/Donlapun/OCR_research-/tree/main" text="The Analysis" %}
+
+
 
 
