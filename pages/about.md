@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hello, I am **Donlapun Wongkarnta** (You can call me **Dorothy**)! I am interested in data science and data visualization as well as digital literacy in educaiton policy, but I am also very into cooking and trying new food ;) <br>
+I’m a master's student specializing in data science and analytics, with a strong passion for using data to drive social impact and positive change. Through my academic work and projects, I’ve gained experience in data analysis, machine learning, and statistical modeling, focusing on extracting insights that can solve real-world problems in areas such as Astronomy, healthcare, and business. <br>
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
