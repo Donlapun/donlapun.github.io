@@ -1,5 +1,5 @@
 ---
-name: Ames House Price Prediction
+name: Ames House Price Prediction [2022]
 tools: [Python, HTML, vega-lite, JavaScript]
 image: assets/pngs/mon_price_qual_plot.png
 description: Price predictive modeling according to house recommendations using statistical analysis 
