@@ -1,5 +1,5 @@
 ---
-name: Billionaire Project
+name: Billionaire Project [2022]
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/scatter_billionaire.png
 description: What factors we should think about when it comes to Billionaires?
