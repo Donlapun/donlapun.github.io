@@ -1,5 +1,5 @@
 ---
-name: States of Care: Investigating U.S. Maternal Mortality
+name: States of Care, Investigating U.S. Maternal Mortality [2025]
 tools: [Python, Dash, scikit-learn, PLotly]
 image: assets/pngs/scatter_billionaire.png
 description: What factors we should think about when it comes to Billionaires?
