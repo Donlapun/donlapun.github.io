@@ -1,5 +1,5 @@
 ---
-name: Enhancing Optical Character Recognition (OCR) Capabilities for Historical Documents
+name: Enhancing Optical Character Recognition (OCR) Capabilities for Historical Documents [2023-2024]
 
 tools: [Python, OCR, numpy, transformers, pandas, torch, Post-correction]
 image: assets/pngs/sentence10_output.png
