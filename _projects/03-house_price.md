@@ -1,6 +1,6 @@
 ---
 name: Ames House Price Prediction [2022]
-tools: [Python, HTML, vega-lite, JavaScript]
+tools: [Python, Jupyter, pandas, matplotlib,matplotlib, hypothesis testing, regression analysis]
 image: assets/pngs/mon_price_qual_plot.png
 description: Price predictive modeling according to house recommendations using statistical analysis 
 custom_js:
