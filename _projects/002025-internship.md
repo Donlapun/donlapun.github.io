@@ -4,6 +4,7 @@ tools: [Tableau, Microsoft Excel, Metopio, Data Analysis, Data Visualization, Pr
 image: assets/pngs/mortality.png
 description: This interactive dashboard is developed to understand the internal scope of work of Evalaution and Outcomes Team,visualizing system architecture and project
 scope and providing support for future development and planning
+
 ---
 # Evaluation and Outcomes Ticketing System Dashboard Process (AGILE)
 
