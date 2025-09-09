@@ -1,7 +1,7 @@
 ---
 name: Evaluation & Outcomes Ticketing System Dashboard [2025]
 tools: [Tableau, Microsoft Excel, Metopio, Data Analysis, Data Visualization, Program Evaluation]
-image: assets/pngs/mortality.png
+image: assets/pngs/E&O_Summary_Dashboard.png
 description: This interactive dashboard is developed to understand the internal scope of work of Evalaution and Outcomes Team,visualizing system architecture and project scope and providing support for future development and planning
 
 ---
