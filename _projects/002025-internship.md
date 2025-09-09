@@ -2,10 +2,10 @@
 name: Evaluation & Outcomes Ticketing System Dashboard [2025]
 tools: [Tableau, Microsoft Excel, Metopio, Data Analysis, Data Visualization, Program Evaluation]
 image: assets/pngs/mortality.png
-description: This interactive dashboard is developed to understand the internal scope of work of Evalaution and Outcomes Team,visualizing system architecture and project
-scope and providing support for future development and planning
+description: This interactive dashboard is developed to understand the internal scope of work of Evalaution and Outcomes Team,visualizing system architecture and project scope and providing support for future development and planning
 
 ---
+
 # Evaluation and Outcomes Ticketing System Dashboard Process (AGILE)
 
 - Collaborated with the technical team to gather project requirements and identify key metrics and data sources from Jira 
