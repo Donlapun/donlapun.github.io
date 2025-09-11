@@ -19,7 +19,7 @@ description: This interactive dashboard is developed to understand the internal 
 # Interactive Tableau Dashboard
 
 <h3>📽 Demo</h3>
-<video width="600" controls>
+<video width="800" controls>
   <source src="https://github.com/Donlapun/donlapun.github.io/raw/main/assets/E%26O_Dashboard_Recording.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
