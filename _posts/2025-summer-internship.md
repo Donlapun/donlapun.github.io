@@ -22,3 +22,4 @@ Microsoft Excel for Annual Outcomes Report
 While working with the team, I gained hands-on experience in using data analysis skills to help support the Chicago community via program evaluation and grow both professionally and interpersonally. Being able to see the improvment in clients via these programs inspired to continue to apply my technical skills to improved the quality of life in society.
 
 
+{% include elements/button.html link="https://github.com/Donlapun/donlapun.github.io/blob/main/_projects/002025-internship.md" text="Learn more about the Ticketing Dashboard" %}
