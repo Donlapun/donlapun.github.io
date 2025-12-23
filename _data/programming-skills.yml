@@ -2,16 +2,16 @@
   percentage: 90
   level: Advanced
   color: danger
-
+  
+- name: SQL
+  percentage: 80
+  level: Advanced
+  color: secondary
+  
 - name: R
   percentage: 75
   level: Advanced
   color:
-
-- name: SQL
-  percentage: 80
-  level: Intermeidate
-  color: secondary
   
 - name: Java
   percentage: 60
